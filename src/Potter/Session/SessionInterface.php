@@ -11,4 +11,5 @@ interface SessionInterface
     
     public function getId(): string;
     public function getName(): string;
+    public function getSavePath(): string;
 }
