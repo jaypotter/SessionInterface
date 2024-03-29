@@ -1,0 +1,2 @@
+# SessionInterface
+PHP Session Interface
